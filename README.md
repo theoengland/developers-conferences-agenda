@@ -602,6 +602,8 @@ All the data (past and coming) are available publicly in JSON:
 
 * 3: [APIdays Helsinki and North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki and North" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2025&color=green"></a>
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
+* 4-5 [EventCentric](https://eventcentric.eu/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP EventCentric - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"><a>
+* 6 [Data Mesh Live](https://datameshlive.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP Data Mesh Live - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
 * 16-19: [GopherCon Europe 2025: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany)
 
 ### July
